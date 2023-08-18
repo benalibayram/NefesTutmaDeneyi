@@ -1,7 +1,7 @@
 
 # Nefes Tutma Deneyi
 
-Nefes tutma görevinde katılımcılara görsel talimatların verilmesi amacıyla [Psychopy](https://www.psychopy.org/) programı kullanılmıştır. Moia ve arkadaşlarının ([2021](https://doi.org/10.1016/j.neuroimage.2021.117914)) çalışmasından uyarlanan nefes tutma paradigması sırasıyla her biri 6 saniye süren 4 solunum döngüsü (nefes alış 3 saniye, nefes veriş 3 saniye), 20 saniye süren nefes tutma (apnea), 3 saniye süren nefes verme ve 15 saniye süren rahat nefes periyodu içermektedir.
+Nefes tutma görevinde katılımcılara görsel talimatların verilmesi amacıyla [Psychopy](https://www.psychopy.org/) programı kullanılmıştır. Moia ve arkadaşlarının ([2021](https://doi.org/10.1016/j.neuroimage.2021.117914)) çalışmasından uyarlanan nefes tutma paradigması sırasıyla her biri 6 saniye süren 4 solunum döngüsü (nefes alış 3 saniye, nefes veriş 3 saniye), 20 saniye süren nefes tutma, 3 saniye süren nefes verme ve 15 saniye süren rahat nefes periyodu içermektedir.
 
 **Toplamda 62 saniye süren bu periyoda ait video aşağıda görülebilir.** Bu süreç 8 kez tekrar etmektedir.
 
